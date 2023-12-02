@@ -23,3 +23,5 @@ Training Steps:
 
 The training process involves alternating steps between updating the generator and updating the discriminator.
 Typically, the generator is updated to minimize its loss, followed by an update to the discriminator to minimize its loss.
+
+Note: The uploaded version is a basic GAN structure, and more advanced techniques like Deep Convolutional GANs (DCGANs) are often used for image generation tasks. Additionally, proper data preprocessing and handling are essential for GANs to work effectively. Training GANs can be challenging and may require experimentation with hyperparameters.
